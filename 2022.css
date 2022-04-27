@@ -4,6 +4,11 @@
 }
 
 body {
-  background: hsl(323 21% 16%);
-  
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: var(--clr-bg);
+  font-family: "Balsamiq Sans", cursive;
+  color: var(--clr-neon);
+  padding-right: 10rem;
 }
