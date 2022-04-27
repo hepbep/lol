@@ -4,6 +4,6 @@
 }
 
 body {
-  background-color: var(--clr-bg);
-  color: var(--clr-neon);
+  background-color: hsl(323 21% 16%);
+  
 }
